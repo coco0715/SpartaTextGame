@@ -17,6 +17,7 @@ internal class SpartaTGMain
         GameDataSetting();
         MainStage(choiceNum);
         StatusManagementStage(choiceNum);
+        InventoryManagement(choiceNum);
     }
 
     // 게임 캐릭터 생성
@@ -51,7 +52,7 @@ internal class SpartaTGMain
     }
 
     // 인벤토리 관련 묶음 메소드
-    static void InventoryManageMent(int choice)
+    static void InventoryManagement(int choice)
     {
         InventoryMent();
         InventoryView();
@@ -100,6 +101,7 @@ internal class SpartaTGMain
             else if (choiceNum == 2)
             {
                 Console.WriteLine("인벤토리로 이동합니다.");
+                MainChoiceController(choiceNum);
                 return choiceNum;
                 break;
             }
@@ -118,9 +120,10 @@ internal class SpartaTGMain
         {
             StatusManagementStage(choiceNum);
         }
-        else
-        {
-            //InventoryView();
+        else if
+        {   
+            // 인벤토리 이동
+            InventoryManagement(choiceNum);
         }
 
     }

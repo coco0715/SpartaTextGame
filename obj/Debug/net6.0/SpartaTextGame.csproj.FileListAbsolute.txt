@@ -1,0 +1,14 @@
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\bin\Debug\net6.0\SpartaTextGame.exe
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\bin\Debug\net6.0\SpartaTextGame.deps.json
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\bin\Debug\net6.0\SpartaTextGame.runtimeconfig.json
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\bin\Debug\net6.0\SpartaTextGame.dll
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\bin\Debug\net6.0\SpartaTextGame.pdb
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.AssemblyInfoInputs.cache
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.AssemblyInfo.cs
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.csproj.CoreCompileInputs.cache
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.dll
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\refint\SpartaTextGame.dll
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.pdb
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\SpartaTextGame.genruntimeconfig.cache
+C:\Workspace\git\cShapProject\game\Project\SpartaTextGame\SpartaTextGame\obj\Debug\net6.0\ref\SpartaTextGame.dll
